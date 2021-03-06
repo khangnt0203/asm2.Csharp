@@ -1,0 +1,6 @@
+D:\FPT-U\Kì 5\PRN292\ASM2_SE140281_Library\ASM2_SE140281_Library\obj\Debug\ASM2_SE140281_Library.csprojAssemblyReference.cache
+D:\FPT-U\Kì 5\PRN292\ASM2_SE140281_Library\ASM2_SE140281_Library\obj\Debug\ASM2_SE140281_Library.csproj.CoreCompileInputs.cache
+D:\FPT-U\Kì 5\PRN292\ASM2_SE140281_Library\ASM2_SE140281_Library\bin\Debug\ASM2_SE140281_Library.dll
+D:\FPT-U\Kì 5\PRN292\ASM2_SE140281_Library\ASM2_SE140281_Library\bin\Debug\ASM2_SE140281_Library.pdb
+D:\FPT-U\Kì 5\PRN292\ASM2_SE140281_Library\ASM2_SE140281_Library\obj\Debug\ASM2_SE140281_Library.dll
+D:\FPT-U\Kì 5\PRN292\ASM2_SE140281_Library\ASM2_SE140281_Library\obj\Debug\ASM2_SE140281_Library.pdb
